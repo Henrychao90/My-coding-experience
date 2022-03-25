@@ -14,4 +14,15 @@
 <2>用R進行簡單的文字探勘  
 <3>學會使用tidyverse套件  
 
+三.機器學習概論(使用語言:python)  
+這堂課使用的是python語言，作業的進行方式主要是參加老師自創的kaggle競賽，以排名決定成績，以下三個要點是我所接觸到的:  
+<1>了解Kaggle是什麼樣的網站以及如何運用其資源(competition, courses)  
+<2>了解某些machine or deep learning models背後的簡單數學推導以及如何與使用python進行machine learning  
+<3>建構簡單的deep learning model  
+
+
+
+
+
+
 
