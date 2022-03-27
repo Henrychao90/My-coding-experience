@@ -5,7 +5,7 @@
 <1>如何使用Github  
 <2>如何寫出能用cmd指令執行的Rscript  
 <3>如何使用R進行machine learning  
-<4>體會到做一個project的辛苦  
+<4>體會到做一個project的辛苦  (project repository : https://github.com/1101-datascience/finalproject-finalproject_group1)  
 <5>學會跟不同背景(科系)的人合作，貢獻彼此的專長  
 
 二.社會學資料處理(使用語言:R)  
