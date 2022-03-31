@@ -28,6 +28,7 @@
 <2>了解某些machine or deep learning models背後的簡單數學推導以及如何與使用python進行machine learning  
 <3>建構簡單的deep learning model  
 
+相關線上課程:  
 
 
 
