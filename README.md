@@ -1,6 +1,6 @@
 在政大學習的這兩年多來，修習了不少與程式有關的課程，接觸過的語言有Python和R，以下請讓我介紹這些課程的內容及我的作品，並說明我從中學到了什麼。
 
-一.資料科學(使用語言:R)  
+一.資料科學(使用語言:R)=  
 這是我印象最深刻，也是我最喜歡的一堂課，作業的進行方式是將作業繳交至Github上，並書寫簡單的Readme，最後的期末專案亦是以此方式進行。透過這一堂課，我學到了以下五點:  
 <1>如何使用Github  
 <2>如何寫出能用cmd指令執行的Rscript  
@@ -29,7 +29,11 @@
 <3>建構簡單的deep learning model  
 
 相關線上課程:  
+Kaggle profile:(https://www.kaggle.com/henrychao90/code?userId=9052277&sortBy=dateRun&tab=profile)
+
 ![螢幕擷取畫面 (70)](https://user-images.githubusercontent.com/90858054/161212433-dbf46a7b-b5b7-4173-996b-8ff361f60059.png)
+
+
 
 
 
