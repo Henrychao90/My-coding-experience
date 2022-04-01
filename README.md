@@ -29,7 +29,9 @@
 <3>建構簡單的deep learning model  
 
 相關線上課程:  
-file:///C:/Users/USER/Downloads/%E3%80%90%E7%B5%90%E8%A8%93%E8%AD%89%E6%9B%B8%E3%80%91Python%E7%B7%9A%E4%B8%8A%E6%9A%91%E6%9C%9F%E7%87%9F20210831_%E8%B6%99%E5%95%9F%E5%AE%8F.pdf  
+(file:///C:/Users/USER/Downloads/%E3%80%90%E7%B5%90%E8%A8%93%E8%AD%89%E6%9B%B8%E3%80%91Python%E7%B7%9A%E4%B8%8A%E6%9A%91%E6%9C%9F%E7%87%9F20210831_%E8%B6%99%E5%95%9F%E5%AE%8F.pdf)
+
+
 
 
 
