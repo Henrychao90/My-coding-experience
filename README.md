@@ -29,7 +29,7 @@
 <3>建構簡單的deep learning model  
 
 相關線上課程:  
-![![螢幕擷取畫面 (70)](https://user-images.githubusercontent.com/90858054/161212433-dbf46a7b-b5b7-4173-996b-8ff361f60059.png)
+![螢幕擷取畫面 (70)](https://user-images.githubusercontent.com/90858054/161212433-dbf46a7b-b5b7-4173-996b-8ff361f60059.png)
 
 
 
