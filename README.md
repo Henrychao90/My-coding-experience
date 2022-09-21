@@ -46,7 +46,7 @@ Kaggle profile:(https://www.kaggle.com/henrychao90/code?userId=9052277&sortBy=da
 
 <1>分工合作的重要性，如何在一個資料科學的團隊中擔任稱職的角色。  
 <2>如何透過原始資料的欄位去製作特徵，提高模型準度。  
-<3>訓練自己迅速了解一個未知的domain knowledge的能力(在此專案中為虛擬貨幣的歷史以及交易形式)
+<3>訓練自己迅速了解一個未知的domain knowledge的能力(在此專案中為虛擬貨幣的歷史以及交易形式)。
 
 
 
