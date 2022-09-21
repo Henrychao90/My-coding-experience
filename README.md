@@ -40,7 +40,7 @@ Kaggle profile:(https://www.kaggle.com/henrychao90/code?userId=9052277&sortBy=da
 --
 ![螢幕擷取畫面 (70)](https://user-images.githubusercontent.com/90858054/161212433-dbf46a7b-b5b7-4173-996b-8ff361f60059.png)
 
-資料科學家儲備計畫:
+  資料科學家儲備計畫:
 
 
 
