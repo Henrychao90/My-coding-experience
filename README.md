@@ -38,7 +38,7 @@ This course focused on business data analysis(ex. monthly salses revenue,custome
 <3>學會使用tidyverse套件  (How to use tidyverse package)  
 <4>一些分析商業資料的眉角(Ex.時間的影響,什麼圖表適合什麼樣的變數) (Some tips for analysis of business data (Ex. the impact of time, what chart is suitable for what variables))  
 
-四.機器學習概論(使用語言:python)  
+四.機器學習概論(使用語言:python)  (Introduction to Machine Learning, with Python)
 ==
 這堂課使用的是python語言，作業的進行方式主要是參加老師自創的kaggle競賽，以排名決定成績，以下三個要點是我所接觸到的:  
 
