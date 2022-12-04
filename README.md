@@ -25,36 +25,38 @@ I learned the following three things from this course:
 
 三.商業分析(使用語言:R) (Business Analytics: Application in SAS/R) 
 ==
-這堂課使用的同樣是R語言，作業的進行以及繳交方式跟上述的社會學資料處理雷同，有差異的部分在於這堂課處理的是商業方面的資料(ex.每月銷售量、搜尋的關鍵字)，以下三點是我學習到的內容:
-This course focused on business data analysis(ex. monthly salses revenue,customers shopping records) in R language, I was quite interested in it, the following four  points was what I gained from this course: 
+這堂課使用的同樣是R語言，作業的進行以及繳交方式跟上述的社會學資料處理雷同，有差異的部分在於這堂課處理的是商業方面的資料(ex.每月銷售量、搜尋的關鍵字)，以下三點是我學習到的內容:  
+This course focused on business data analysis(ex. monthly salses revenue,customers shopping records) in R language, I was quite interested in it, the following four  points was what I gained from this course:  
+
 <1>學會在實務上的統計檢定是如何假設以及在R上面如何呈現 (Learn how statistical tests in practice are assumed and how they are presented in R)  
-<2>用R進行簡單的文字探勘  (Simple Text Mining with R)
-<3>學會使用tidyverse套件  (How to use tidyverse package)
-<4>一些分析商業資料的眉角(Ex.時間的影響,什麼圖表適合什麼樣的變數) (Some tips for analysis of business data (Ex. the impact of time, what chart is suitable for what variables)
+<2>用R進行簡單的文字探勘  (Simple Text Mining with R)  
+<3>學會使用tidyverse套件  (How to use tidyverse package)  
+<4>一些分析商業資料的眉角(Ex.時間的影響,什麼圖表適合什麼樣的變數) (Some tips for analysis of business data (Ex. the impact of time, what chart is suitable for what variables)  
 
 四.機器學習概論(使用語言:python)  
 ==
-這堂課使用的是python語言，作業的進行方式主要是參加老師自創的kaggle競賽，以排名決定成績，以下三個要點是我所接觸到的: 
-This class uses the python language. The homework is mainly carried out by participating in the kaggle competition created by the teacher. The following three points are what I have come into contact with:
+這堂課使用的是python語言，作業的進行方式主要是參加老師自創的kaggle競賽，以排名決定成績，以下三個要點是我所接觸到的:  
 
-<1>了解Kaggle是什麼樣的網站以及如何運用其資源(competition, courses)  (Understand Kaggle and how to use its resources (competition, courses))
-<2>了解某些machine or deep learning models背後的簡單數學推導以及如何與使用python進行machine learning  (Understand the simple mathematical derivation behind some machine or deep learning models and how to use them in Python)
-<3>建構簡單的deep learning model  (How to built simple deep learning model)
+This class uses the python language. The homework is mainly carried out by participating in the kaggle competition created by the teacher. The following three points are what I have come into contact with:  
+
+<1>了解Kaggle是什麼樣的網站以及如何運用其資源(competition, courses)  (Understand Kaggle and how to use its resources (competition, courses))  
+<2>了解某些machine or deep learning models背後的簡單數學推導以及如何與使用python進行machine learning  (Understand the simple mathematical derivation behind some machine or deep learning models and how to use them in Python)  
+<3>建構簡單的deep learning model  (How to built simple deep learning model)  
 
 相關線上課程:  (other relative online courses)
 ==
 Kaggle profile:(https://www.kaggle.com/henrychao90/code?userId=9052277&sortBy=dateRun&tab=profile)
 
-暑期課程研習證明: (Certificate of summer course study:)
+暑期課程研習證明: (Certificate of summer course study)
 --
 ![螢幕擷取畫面 (70)](https://user-images.githubusercontent.com/90858054/161212433-dbf46a7b-b5b7-4173-996b-8ff361f60059.png)
 
 資料科學家儲備計畫: (a online course for students who want to be data scientists)
 --
 在這個課程的期末專案裡，我們要使用老師給的比特幣交易所的紀錄，去訓練模型，使其判斷哪些帳戶有洗錢的嫌疑。我在這個專案中負責特徵的製作、模型的訓練以及驗證。我在這次的專案中學到了以下幾點:  
-In the final project of this course, we used the Bitcoin exchange record given by the teacher to train the model so that it can judge which accounts are suspected of money laundering. I am responsible for feature creation, model training and validation in this project. I learned the following points from this project:
-<1>分工合作的重要性，如何在一個資料科學的團隊中擔任稱職的角色。(The importance of division of labor and cooperation, how to play a competent role in a data science team.)
-<2>如何透過原始資料的欄位去製作特徵，提高模型準度。  (How to make features through the fields of raw data to improve the accuracy of the model.)
+In the final project of this course, we used the Bitcoin exchange record given by the teacher to train the model so that it can judge which accounts are suspected of money laundering. I am responsible for feature creation, model training and validation in this project. I learned the following points from this project:  
+<1>分工合作的重要性，如何在一個資料科學的團隊中擔任稱職的角色。(The importance of division of labor and cooperation, how to play a competent role in a data science team.)  
+<2>如何透過原始資料的欄位去製作特徵，提高模型準度。  (How to make features through the fields of raw data to improve the accuracy of the model.)  
 <3>訓練自己迅速了解一個未知的domain knowledge的能力(在此專案中為虛擬貨幣的歷史以及交易形式)。(Quickly understand an unknown domain knowledge (in this case, the history and transaction forms of virtual currency)
 
 
