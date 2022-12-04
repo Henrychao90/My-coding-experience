@@ -5,6 +5,7 @@ In the past three years of studying, I had taken many courses related to program
 ==
 這是我印象最深刻，也是我最喜歡的一堂課，作業的進行方式是將作業繳交至Github上，並書寫簡單的Readme，最後的期末專案亦是以此方式進行。透過這一堂課，我學到了以下五點:  
 This is the class that impressed me the most, and it is also my favorite class. The way of homework is to submit to Github and write a simple Readme. The final project was also done in this way. Through this class, I learned the following five points:  
+
 <1>如何使用Github (How to use GitHub)  
 <2>如何寫出能用cmd指令執行的Rscript (How to write Rscript that can be executed with cmd command)  
 <3>如何使用R進行machine learning  (How to do machine learning in R)  
@@ -31,7 +32,7 @@ This course focused on business data analysis(ex. monthly salses revenue,custome
 <1>學會在實務上的統計檢定是如何假設以及在R上面如何呈現 (Learn how statistical tests in practice are assumed and how they are presented in R)  
 <2>用R進行簡單的文字探勘  (Simple Text Mining with R)  
 <3>學會使用tidyverse套件  (How to use tidyverse package)  
-<4>一些分析商業資料的眉角(Ex.時間的影響,什麼圖表適合什麼樣的變數) (Some tips for analysis of business data (Ex. the impact of time, what chart is suitable for what variables)  
+<4>一些分析商業資料的眉角(Ex.時間的影響,什麼圖表適合什麼樣的變數) (Some tips for analysis of business data (Ex. the impact of time, what chart is suitable for what variables))  
 
 四.機器學習概論(使用語言:python)  
 ==
@@ -54,7 +55,8 @@ Kaggle profile:(https://www.kaggle.com/henrychao90/code?userId=9052277&sortBy=da
 資料科學家儲備計畫: (a online course for students who want to be data scientists)
 --
 在這個課程的期末專案裡，我們要使用老師給的比特幣交易所的紀錄，去訓練模型，使其判斷哪些帳戶有洗錢的嫌疑。我在這個專案中負責特徵的製作、模型的訓練以及驗證。我在這次的專案中學到了以下幾點:  
-In the final project of this course, we used the Bitcoin exchange record given by the teacher to train the model so that it can judge which accounts are suspected of money laundering. I am responsible for feature creation, model training and validation in this project. I learned the following points from this project:  
+In the final project of this course, we used the Bitcoin exchange record given by the teacher to train the model so that it can judge which accounts are suspected of money laundering. I am responsible for feature creation, model training and validation in this project. I learned the following points from this project: 
+
 <1>分工合作的重要性，如何在一個資料科學的團隊中擔任稱職的角色。(The importance of division of labor and cooperation, how to play a competent role in a data science team.)  
 <2>如何透過原始資料的欄位去製作特徵，提高模型準度。  (How to make features through the fields of raw data to improve the accuracy of the model.)  
 <3>訓練自己迅速了解一個未知的domain knowledge的能力(在此專案中為虛擬貨幣的歷史以及交易形式)。(Quickly understand an unknown domain knowledge (in this case, the history and transaction forms of virtual currency)
