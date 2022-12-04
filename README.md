@@ -1,9 +1,10 @@
 在政大學習的這三年多來，修習了不少與程式有關的課程，接觸過的語言有Python和R，以下請讓我介紹這些課程的內容及我的作品，並說明我從中學到了什麼。
-In the past three years of studying, I have taken many courses related to programming. The programming languages I have learned including Python and R. Please let me introduce the content of these courses and my works, and explain what I have learned from them .
+In the past three years of studying, I had taken many courses related to programming. The programming languages I had learned including Python and R. Please let me introduce the content of these courses and my works, and explain what I have learned from them .
 
 一.資料科學(使用語言:R)  (Data Science, with R)
 ==
-這是我印象最深刻，也是我最喜歡的一堂課，作業的進行方式是將作業繳交至Github上，並書寫簡單的Readme，最後的期末專案亦是以此方式進行。透過這一堂課，我學到了以下五點:  
+這是我印象最深刻，也是我最喜歡的一堂課，作業的進行方式是將作業繳交至Github上，並書寫簡單的Readme，最後的期末專案亦是以此方式進行。透過這一堂課，我學到了以下五點: 
+This is the class that impressed me the most, and it is also my favorite class. The way of homework is to submit to Github and write a simple Readme. The final project was also done in this way. Through this class, I learned the following five points:
 <1>如何使用Github  
 <2>如何寫出能用cmd指令執行的Rscript  
 <3>如何使用R進行machine learning  
