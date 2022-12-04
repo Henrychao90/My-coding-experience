@@ -1,5 +1,5 @@
 在政大學習的這三年多來，修習了不少與程式有關的課程，接觸過的語言有Python和R，以下請讓我介紹這些課程的內容及我的作品，並說明我從中學到了什麼。  
-In the past three years of studying, I had taken many courses related to programming. The programming languages I had learned including Python and R. Please let me introduce the content of these courses and my works, and explain what I have learned from them .
+For the past three years of studying, I had taken many courses related to programming. The programming languages I had learned including Python and R. Please let me introduce the content of these courses and my works, and explain what I have learned from them .
 
 一.資料科學(使用語言:R)  (Data Science, with R)
 ==
