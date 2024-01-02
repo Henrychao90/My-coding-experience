@@ -1,6 +1,6 @@
-在政大學習的這三年多來，修習了不少與程式有關的課程，接觸過的語言有Python和R，以下請讓我介紹這些課程的內容及我的作品，並說明我從中學到了什麼。 
+在政大學習的四年多來，修習了不少與程式有關的課程，接觸過的語言有Python和R，以下請讓我介紹這些課程的內容及我的作品，並說明我從中學到了什麼。 
 
-For the past three years of studying, I had taken many courses related to programming. The programming languages I had learned including Python and R. Please let me introduce the content of these courses and my works, and explain what I have learned from them .
+For the past four and the half years of studying, I had taken many courses related to programming. The programming languages I had learned including Python and R. Please let me introduce the content of these courses and my works, and explain what I have learned from them .
 
 一.資料科學(使用語言:R)  (Data Science, with R)
 ==
@@ -31,7 +31,7 @@ I learned the following three things from this course:
 ==
 這堂課使用的同樣是R語言，作業的進行以及繳交方式跟上述的社會學資料處理雷同，有差異的部分在於這堂課處理的是商業方面的資料(ex.每月銷售量、搜尋的關鍵字)，以下三點是我學習到的內容:  
 
-This course focused on business data analysis(ex. monthly salses revenue,customers shopping records) in R language, I was quite interested in it, the following four  points was what I gained from this course:  
+This course focused on business data analysis(ex. monthly sales revenue,customers shopping records) in R language, I was quite interested in it, the following four points was what I gained from this course:  
 
 <1>學會在實務上的統計檢定是如何假設以及在R上面如何呈現 (Learn how statistical tests in practice are assumed and how they are presented in R)  
 <2>用R進行簡單的文字探勘  (Simple Text Mining with R)  
@@ -56,7 +56,7 @@ Kaggle profile:(https://www.kaggle.com/henrychao90/code?userId=9052277&sortBy=da
 --
 ![螢幕擷取畫面 (70)](https://user-images.githubusercontent.com/90858054/161212433-dbf46a7b-b5b7-4173-996b-8ff361f60059.png)
 
-資料科學家儲備計畫: (a online course for students who want to be data scientists)
+資料科學家儲備計畫: (an online course for students who want to be data scientists,with Python)
 --
 在這個課程的期末專案裡，我們要使用老師給的比特幣交易所的紀錄，去訓練模型，使其判斷哪些帳戶有洗錢的嫌疑。我在這個專案中負責特徵的製作、模型的訓練以及驗證。我在這次的專案中學到了以下幾點:  
 
